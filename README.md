@@ -32,7 +32,7 @@ A Simple, Tkinter  password manager that stores data locally in json.
 - [ ] Add palette skins inc. dark mode
 
 ## 🚀 Installation
-- Navigate to releases and pick up the latest bundled version.
+- Navigate to releases and pick up the latest compiled version.
 ---
 
 [//]: # (## ⚙️ How It Works TBC) 
@@ -89,6 +89,7 @@ Licensed under **MIT**:
 
 
 [MIT LICENSE](LICENSE)
+
 
 
 
