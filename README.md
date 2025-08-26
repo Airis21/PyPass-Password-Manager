@@ -28,7 +28,7 @@ A Simple, Tkinter  password manager that stores data locally in json.
 
 - [ ] Add encryption to stored entries
 - [ ] User authentication via master password to view your "Vault"
-- [ ] Improve Json formatting
+- [ ] Improve Vault formatting
 - [ ] Add palette skins inc. dark mode
 
 ## 🚀 Installation
@@ -89,6 +89,7 @@ Licensed under **MIT**:
 
 
 [MIT LICENSE](LICENSE)
+
 
 
 
