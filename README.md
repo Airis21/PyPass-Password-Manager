@@ -3,6 +3,8 @@
 A Simple, Tkinter  password manager that stores data locally in json.
 ---
 
+*This is my first gui project,  be kind.*
+
 ## 📖 Contents
 - [✨ Features](#-features)
 - [🗺️ Todo](#-roadmap)
@@ -87,6 +89,7 @@ Licensed under **MIT**:
 
 
 [MIT LICENSE](LICENSE)
+
 
 
 
