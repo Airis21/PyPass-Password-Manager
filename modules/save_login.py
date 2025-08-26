@@ -10,7 +10,7 @@ class SaveLogin:
         self.data_file = os.path.join(DOCS_PATH,"data.json")
 
     def save_password(self, website: str, username: str, password: str) -> None:
-        """Saves entries to data_file.json
+        """Saves entries to data.json
         requires user entry fields - website, username, password
         creates message boxes for detected empty fields and for confirming saving data
         """
@@ -54,4 +54,5 @@ class SaveLogin:
 
 # Test case
 # save_manager = SaveLogin("test.json")
+
 # save_pass = save_manager.save_password("web","user","pass")
