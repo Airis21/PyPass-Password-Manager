@@ -60,21 +60,21 @@ A Simple, Tkinter  password manager that stores data locally in json.
 
 *Main interface*   
 ---
-![Main Dashboard](/pics/dashboard.png)  
+![Main Dashboard](pics/dashboard.png)  
 
 *Confirmation message*  
 ---
-![Add New Password](/pics/confirmationmsg.png)  
+![Add New Password](pics/confirmationmsg.png)  
 
 *Generator options*   
 ---
-![Set generator options](/pics/Seloptions.png)  
+![Set generator options](pics/Seloptions.png)  
  
 
 
 *Read your saved Json data*
 ---
-![My Vault](/pics/vault.png)  
+![My Vault](pics/vault.png)  
 
 
 ---
@@ -87,3 +87,4 @@ Licensed under **MIT**:
 
 
 [MIT LICENSE](LICENSE)
+
